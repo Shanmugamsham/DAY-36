@@ -1,0 +1,62 @@
+[{"codekata_id": 1,
+"name": "shanmuga",
+"difficultyLevel":"high",
+"decscription":"CodeKata is a series of programs curated by the veterans in IT & Software industry.",
+"category":["Input/Output","Absolute Beginner","Array","Mathematics"],
+"testCases":"allsubmited",
+"total_problems": 1000,
+"solved_problems": 300,
+"date":"15/10/2013"},
+
+{"codekata_id": 2,
+"name": "vishnu",
+"difficultyLevel":"high",
+"decscription":"CodeKata is a series of programs curated by the veterans in IT & Software industry.",
+"category":["Input/Output","Absolute Beginner","Array","Mathematics"],
+"testCases":"allsubmited",
+"total_problems": 1000,
+"solved_problems": 400,
+"date":"18/10/2013"},
+
+{"codekata_id": 3,
+"name": "perumal",
+"difficultyLevel":"high",
+"decscription":"CodeKata is a series of programs curated by the veterans in IT & Software industry.",
+"category":["Input/Output","Absolute Beginner","Array","Mathematics"],
+"testCases":"allsubmited",
+"total_problems": 1000,
+"solved_problems": 100,
+"date":"17/10/2013"}
+
+,{"codekata_id": 4,
+"name": "aravidh",
+"difficultyLevel":"high",
+"decscription":"CodeKata is a series of programs curated by the veterans in IT & Software industry.",
+"category":["Input/Output","Absolute Beginner","Array","Mathematics"],
+"testCases":"allsubmited",
+"total_problems": 1000,
+"solved_problems": 400,
+"date":"18/10/2013"}
+
+,{"codekata_id": 5,
+"name": "kanna",
+"difficultyLevel":"high",
+"decscription":"CodeKata is a series of programs curated by the veterans in IT & Software industry.",
+"category":["Input/Output","Absolute Beginner","Array","Mathematics"],
+"testCases":"allsubmited",
+"total_problems": 1000,
+"solved_problems": 400,
+"date":"19/10/2013"}
+
+
+,{"codekata_id": 6,
+"name": "mani",
+"difficultyLevel":"high",
+"decscription":"CodeKata is a series of programs curated by the veterans in IT & Software industry.",
+"category":["Input/Output","Absolute Beginner","Array","Mathematics"],
+"testCases":"allsubmited",
+"total_problems": 1000,
+"solved_problems": 500,
+"date":"24/10/2013"}
+
+]

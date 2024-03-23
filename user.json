@@ -1,0 +1,67 @@
+[{
+    "user_id":1,
+    "name": "shanmugam",
+    "email":"abdeshanmugam@gmail.com",
+    "mobileNumber" :9925254730,
+    "aadharNumber": 45711152532,
+    "role":"student",
+    "batchId": "FSDWD55",
+    "task":"submitted"
+    
+},{
+    "user_id": 2,
+    "name": "vishnu",
+    "email":"vishnu@gmail.com",
+    "mobileNumber" :8625254730,
+    "aadharNumber": 66711152532,
+    "role":"student",
+    "batchId": "FSDWD55",
+    "task":"notsubmit",
+    "task_data":"16/10/2021"
+
+},{
+    "user_id": 3,
+    "name": "perumal",
+    "email":"perumal@gmail.com",
+    "mobileNumber" :6357254730,
+    "aadharNumber": 86511152532,
+    "role":"student",
+    "batchId": "FSDWD55",
+    "task":"notsubmit",
+    "task_data":"17/10/2021"
+},{
+    "user_id": 4,
+    "name": "aravidh",
+    "email":"aravith@gmail.com",
+    "mobileNumber" :6325254730,
+    "aadharNumber": 75211152532,
+    "role":"student",
+    "batchId": "FSDWD55",
+    "task":"submitted",
+    "task_data":"16/10/2021"
+    
+
+},{
+    "user_id": 5,
+    "name": "kanna",
+    "email":"kanna@gmail.com",
+    "mobileNumber" :7725254730,
+    "aadharNumber": 88011152532,
+    "role":"student",
+    "batchId": "FSDWD55",
+    "task":"submitted",
+    "task_data":"18/10/2021"
+    
+
+},{
+    "user_id": 6,
+    "name": "mani",
+    "email":"mani@gmail.com",
+    "mobileNumber" :7525254730,
+    "aadharNumber": 856711152532,
+    "role":"student",
+    "batchId": "FSDWD55",
+    "task":"submitted",
+    "task_data":"16/11/2021"
+}
+]

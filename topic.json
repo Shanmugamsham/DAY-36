@@ -1,0 +1,59 @@
+[{ "topic_id":1,
+"scheduledDate":"16/10/2023",
+"content":"JavaScript - Day -1: Introduction to Browser & web",
+"sessiontime": "6pm to 8.30pm",
+"taskDetails":{"task_id":1,
+"task_name":"HTML",
+ "taskdate": "16/10/2023"
+},
+"batchId Number":"FSDWD55"},
+
+{ "topic_id":2,
+"scheduledDate":"18/10/2023",
+"content":"JavaScript - Day -2: Datatypes",
+"sessiontime": "6pm to 8.30pm",
+"taskDetails":{"task_id":2,
+"task_name":"Css",
+ "taskdate": "18/10/2023"
+},
+"batchId Number":"FSDWD55"},
+
+{ "topic_id":3,
+"scheduledDate":"22/10/2023",
+"content":"HTML & CSS- Day -3: HTML & CSS",
+"taskDetails":{"task_id":3,
+"task_name":"Javacript",
+ "taskdate": "22/10/2023"
+},
+"sessiontime": "6pm to 8.30pm",
+"batchId Number":"FSDWD55"},
+
+{ "topic_id":4,
+
+"scheduledDate":"25/11/2023",
+"content":"Async programming- Day -4: Promise fetch - request info & request init",
+"sessiontime": "6pm to 8.30pm",
+"taskDetails":{"task_id":4,
+"task_name":"MongoDb",
+ "taskdate": "25/11/2023"
+},
+"batchId Number":"FSDWD55"},
+
+{ "topic_id":5,
+"taskDetails":{"task_id":5,
+"task_name":"MongoDb",
+ "taskdate": "25/11/2023"
+},
+"scheduledDate":"28/10/2023",
+"content":"React- Day -5: React components",
+"sessiontime": "6pm to 8.30pm",
+"batchId Number":"FSDWD55"},
+{ "topic_id":6,
+"taskDetails":{"task_id":6,
+"task_name":"MongoDb",
+ "taskdate": "25/11/2023"
+},
+"scheduledDate":"28/10/2023",
+"content":"React- Day -5: React components",
+"sessiontime": "6pm to 8.30pm",
+"batchId Number":"FSDWD55"}]
